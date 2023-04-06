@@ -1,5 +1,5 @@
 # Curso de Principios de Visualización de Datos para Business Intelligence
-
+Beder Casa
 ## ¿Qué es la visualización de datos?
 
 📊 ¿Qué es Visualización de Datos?
